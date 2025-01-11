@@ -100,13 +100,6 @@ Recomendação final: **manter o grupo A como versão oficial.**
 2. Certifique-se de que os arquivos de dados estão na pasta `/datasets`.
 3. Execute o script principal para reproduzir os resultados.
 
-```bash
-git clone <link-do-repositório>
-cd <nome-do-projeto>
-python main.py
-
----
-
 Autor
 [Danilo José](https://www.linkedin.com/in/danilojosedelara/)
 
