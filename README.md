@@ -105,6 +105,7 @@ git clone <link-do-repositório>
 cd <nome-do-projeto>
 python main.py
 
+---
 
 Autor
 [Danilo José](https://www.linkedin.com/in/danilojosedelara/)
